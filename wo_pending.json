@@ -1,22 +1,22 @@
 {
-  "invoiceNum": "1626-FINAL",
+  "invoiceNum": "1484-FINAL",
   "processed": true,
-  "clientName": "TB-0119 Omni Elite Athletic",
-  "projectName": "SZN12",
-  "orderDate": "June 16, 2026",
-  "shipToLocation": "NC:3",
+  "clientName": "Laredo All American Cheer",
+  "projectName": "45th Anniversary",
+  "orderDate": "June 28, 2025",
+  "shipToLocation": "TX:2",
   "totalDue": "",
   "customerNotes": "",
   "productionNotes": "",
-  "proofImageUrl": "https://res.cloudinary.com/dilrpnzkd/image/upload/v1781644978/tigerblue/OESZN12WhiteR3.png",
+  "proofImageUrl": "https://res.cloudinary.com/dilrpnzkd/image/upload/v1781889811/tigerblue/45Anniversary.png",
   "garmentLines": [
     {
-      "garment": "Gildan Heavy Cotton T-Shirt - White",
+      "garment": "Jerzees Dri-Power 50/50 T-Shirt - True Red",
       "imprint": "Screen Print - 4 colors - Front and Back",
       "isFree": false,
-      "sizes": "YS-15, YM-20, YL-20, AS-20, AM-25, AL-25, AXL-15, A2XL-5",
+      "sizes": "YXS-37, YS-74, YM-56, YL-39, AS-74, AM-46, AL-29, AXL-14, A2XL-9, A4XL-1",
       "specialInks": 0,
-      "proofImageUrl": "https://res.cloudinary.com/dilrpnzkd/image/upload/v1781644978/tigerblue/OESZN12WhiteR3.png"
+      "proofImageUrl": "https://res.cloudinary.com/dilrpnzkd/image/upload/v1781889811/tigerblue/45Anniversary.png"
     }
   ]
 }
