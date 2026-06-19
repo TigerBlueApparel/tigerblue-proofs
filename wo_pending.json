@@ -1,42 +1,28 @@
 {
-  "invoiceNum": "1627-FINAL",
+  "invoiceNum": "1626-FINAL",
   "processed": true,
-  "clientName": "Desert Elite Mavericks",
-  "projectName": "Maverick Mentality",
-  "orderDate": "June 17, 2026",
+  "clientName": "TB-0119 Omni Elite Athletic",
+  "projectName": "SZN12",
+  "orderDate": "June 16, 2026",
   "shipToLocation": "CA:4",
   "totalDue": "",
   "customerNotes": "",
-  "productionNotes": "Re-print 10 tanks missed from previous order - YL-5, AM-5. No charge.",
-  "proofImageUrl": "https://res.cloudinary.com/dilrpnzkd/image/upload/v1781759416/tigerblue/DEMMentality.png",
+  "productionNotes": "",
+  "proofImageUrl": "",
   "garmentLines": [
     {
-      "garment": "Bella+Canvas Unisex Jersey T-Shirt - Navy",
-      "imprint": "Screen Print - 2 colors - Front and Back",
+      "garment": "Gildan Heavy Cotton T-Shirt - White",
+      "imprint": "Screen Print - 4 colors - Front and Back",
       "isFree": false,
-      "sizes": "YS-1, AS-3, AM-7, AL-7, AXL-5, A2XL-2, A3XL-1",
-      "specialInks": 0,
-      "proofImageUrl": "https://res.cloudinary.com/dilrpnzkd/image/upload/v1781759416/tigerblue/DEMMentality.png"
-    },
-    {
-      "garment": "Bella+Canvas Unisex Jersey Tank - Navy",
-      "imprint": "Screen Print - 2 colors - Front and Back",
-      "isFree": false,
-      "sizes": "YS-35, YM-15, YL-25, AXS-8, AS-8, AM-6, AL-1",
+      "sizes": "YS-15, YM-20, YL-20, AS-20, AM-25, AL-25, AXL-15",
       "specialInks": 0
     },
     {
-      "garment": "Bella+Canvas Unisex Jersey V-Neck T-Shirt - Navy",
-      "imprint": "Screen Print - 2 colors - Front and Back",
+      "garment": "Gildan Heavy Cotton T-Shirt - White 2XL",
+      "imprint": "Screen Print - 4 colors - Front and Back",
       "isFree": false,
-      "sizes": "AS-1, AM-2, AL-2, AXL-1",
+      "sizes": "A2XL-5",
       "specialInks": 0
-    },
-    {
-      "garment": "Bella+Canvas Unisex Jersey Tank - Navy RE-PRINT",
-      "imprint": "Screen Print - 2 colors - Front and Back",
-      "isFree": true,
-      "sizes": "YL-5, AM-5"
     }
   ]
 }
