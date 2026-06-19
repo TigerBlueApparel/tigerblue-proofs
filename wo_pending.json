@@ -1,6 +1,6 @@
 {
   "invoiceNum": "1627-LIVE",
-  "processed": false,
+  "processed": true,
   "clientName": "Desert Elite Mavericks",
   "projectName": "Maverick Mentality",
   "orderDate": "June 17, 2026",
@@ -13,7 +13,8 @@
       "garment": "Bella+Canvas Unisex Jersey T-Shirt - Navy",
       "imprint": "Screen Print - 2 colors - Front and Back",
       "isFree": false,
-      "sizes": "YS-1, AS-3, AM-7, AL-7, AXL-5, A2XL-2, A3XL-1"
+      "sizes": "YS-1, AS-3, AM-7, AL-7, AXL-5, A2XL-2, A3XL-1",
+      "proofImageUrl": "https://res.cloudinary.com/dilrpnzkd/image/upload/v1781759416/tigerblue/DEMMentality.png"
     },
     {
       "garment": "Bella+Canvas Unisex Jersey Tank - Navy",
