@@ -1,7 +1,37 @@
 {
-  "invoiceNum": "idle",
-  "processed": true,
-  "clientName": "",
-  "projectName": "",
-  "garmentLines": []
+  "invoiceNum": "1627-LIVE",
+  "processed": false,
+  "clientName": "Desert Elite Mavericks",
+  "projectName": "Maverick Mentality",
+  "orderDate": "June 17, 2026",
+  "totalDue": "",
+  "customerNotes": "",
+  "productionNotes": "Re-print 10 tanks missed from previous order - YL-5, AM-5. No charge.",
+  "proofImageUrl": "https://res.cloudinary.com/dilrpnzkd/image/upload/v1781759416/tigerblue/DEMMentality.png",
+  "garmentLines": [
+    {
+      "garment": "Bella+Canvas Unisex Jersey T-Shirt - Navy",
+      "imprint": "Screen Print - 2 colors - Front and Back",
+      "isFree": false,
+      "sizes": "YS-1, AS-3, AM-7, AL-7, AXL-5, A2XL-2, A3XL-1"
+    },
+    {
+      "garment": "Bella+Canvas Unisex Jersey Tank - Navy",
+      "imprint": "Screen Print - 2 colors - Front and Back",
+      "isFree": false,
+      "sizes": "YS-35, YM-15, YL-25, AXS-8, AS-8, AM-6, AL-1"
+    },
+    {
+      "garment": "Bella+Canvas Unisex Jersey V-Neck T-Shirt - Navy",
+      "imprint": "Screen Print - 2 colors - Front and Back",
+      "isFree": false,
+      "sizes": "AS-1, AM-2, AL-2, AXL-1"
+    },
+    {
+      "garment": "Bella+Canvas Unisex Jersey Tank - Navy RE-PRINT",
+      "imprint": "Screen Print - 2 colors - Front and Back",
+      "isFree": true,
+      "sizes": "YL-5, AM-5"
+    }
+  ]
 }
