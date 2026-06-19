@@ -1,5 +1,5 @@
 {
-  "invoiceNum": "1625-E",
+  "invoiceNum": "1625-F",
   "processed": false,
   "clientName": "TB-0023 Cypress Cheer",
   "projectName": "Cypress Outlaws 2026",
@@ -14,7 +14,8 @@
       "garment": "Gildan Heavy Cotton T-Shirt - Black",
       "imprint": "Screen Print - 4 colors + Silver Metallic + Gold Metallic (Front only)",
       "isFree": false,
-      "sizes": "AS-13, AM-9, AL-6, AXL-1"
+      "sizes": "AS-13, AM-9, AL-6, AXL-1",
+      "specialInks": 2
     }
   ]
 }
