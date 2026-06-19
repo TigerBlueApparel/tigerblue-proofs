@@ -1,1 +1,28 @@
-{"invoiceNum": "idle", "processed": true, "clientName": "", "projectName": "", "garmentLines": []}
+{
+  "invoiceNum": "1626-FINAL",
+  "processed": false,
+  "clientName": "TB-0119 Omni Elite Athletic",
+  "projectName": "SZN12",
+  "orderDate": "June 16, 2026",
+  "shipToLocation": "CA:4",
+  "totalDue": "",
+  "customerNotes": "",
+  "productionNotes": "",
+  "proofImageUrl": "",
+  "garmentLines": [
+    {
+      "garment": "Gildan Heavy Cotton T-Shirt - White",
+      "imprint": "Screen Print - 4 colors - Front and Back",
+      "isFree": false,
+      "sizes": "YS-15, YM-20, YL-20, AS-20, AM-25, AL-25, AXL-15",
+      "specialInks": 0
+    },
+    {
+      "garment": "Gildan Heavy Cotton T-Shirt - White 2XL",
+      "imprint": "Screen Print - 4 colors - Front and Back",
+      "isFree": false,
+      "sizes": "A2XL-5",
+      "specialInks": 0
+    }
+  ]
+}
