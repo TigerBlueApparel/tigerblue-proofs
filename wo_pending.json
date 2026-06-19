@@ -4,25 +4,19 @@
   "clientName": "TB-0119 Omni Elite Athletic",
   "projectName": "SZN12",
   "orderDate": "June 16, 2026",
-  "shipToLocation": "CA:4",
+  "shipToLocation": "NC:3",
   "totalDue": "",
   "customerNotes": "",
   "productionNotes": "",
-  "proofImageUrl": "",
+  "proofImageUrl": "https://res.cloudinary.com/dilrpnzkd/image/upload/v1781644978/tigerblue/OESZN12WhiteR3.png",
   "garmentLines": [
     {
       "garment": "Gildan Heavy Cotton T-Shirt - White",
       "imprint": "Screen Print - 4 colors - Front and Back",
       "isFree": false,
-      "sizes": "YS-15, YM-20, YL-20, AS-20, AM-25, AL-25, AXL-15",
-      "specialInks": 0
-    },
-    {
-      "garment": "Gildan Heavy Cotton T-Shirt - White 2XL",
-      "imprint": "Screen Print - 4 colors - Front and Back",
-      "isFree": false,
-      "sizes": "A2XL-5",
-      "specialInks": 0
+      "sizes": "YS-15, YM-20, YL-20, AS-20, AM-25, AL-25, AXL-15, A2XL-5",
+      "specialInks": 0,
+      "proofImageUrl": "https://res.cloudinary.com/dilrpnzkd/image/upload/v1781644978/tigerblue/OESZN12WhiteR3.png"
     }
   ]
 }
