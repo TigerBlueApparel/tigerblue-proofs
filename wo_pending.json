@@ -1,5 +1,5 @@
 {
-  "invoiceNum": "1484-v6",
+  "invoiceNum": "1484-v7",
   "processed": true,
   "clientName": "Laredo All American Cheer",
   "projectName": "45th Anniversary",
@@ -16,7 +16,7 @@
       "isFree": false,
       "sizes": "YXS-37, YS-75",
       "specialInks": 0,
-      "groupName": "YXS & YS",
+      "groupName": "45th Anniversary",
       "setupDescription": "YXS & YS",
       "proofImageUrl": "https://res.cloudinary.com/dilrpnzkd/image/upload/v1781889811/tigerblue/45Anniversary.png"
     },
@@ -26,7 +26,7 @@
       "isFree": false,
       "sizes": "YM-56, YL-40, S-74, M-47, L-29, XL-15, 2XL-9, 4XL-1",
       "specialInks": 0,
-      "groupName": "Standard Sizes",
+      "groupName": "45th Anniversary",
       "setupDescription": "Standard Sizes",
       "proofImageUrl": ""
     }
