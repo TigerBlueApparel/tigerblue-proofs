@@ -1,10 +1,10 @@
 {
-  "invoiceNum": "1625-B",
+  "invoiceNum": "1625-C",
   "processed": true,
   "clientName": "TB-0023 Cypress Cheer",
   "projectName": "Cypress Outlaws 2026",
   "orderDate": "June 15, 2026",
-  "shipToLocation": "TX:1",
+  "shipToLocation": "CA:4",
   "totalDue": "",
   "customerNotes": "",
   "productionNotes": "",
