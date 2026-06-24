@@ -1,10 +1,10 @@
 {
-  "invoiceNum": "1628",
+  "invoiceNum": "1628-v2",
   "processed": false,
   "clientName": "Bay State All Stars MA",
   "projectName": "Season XXI",
   "orderDate": "June 24, 2026",
-  "shipToLocation": "MA:7",
+  "shipToLocation": "MA:4",
   "totalDue": "3726.82",
   "customerNotes": "",
   "productionNotes": "Exception 1 applied. YXS requires smaller screen. 250 pieces total, TigerBlue absorbs extra setup.",
