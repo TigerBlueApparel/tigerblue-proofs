@@ -1,7 +1,33 @@
 {
-  "invoiceNum": "idle",
-  "processed": true,
-  "clientName": "",
-  "projectName": "",
-  "garmentLines": []
+  "invoiceNum": "1628-v3",
+  "processed": false,
+  "clientName": "Bay State All Stars MA",
+  "projectName": "Season XXI",
+  "orderDate": "June 24, 2026",
+  "shipToLocation": "MA:4",
+  "totalDue": "3726.82",
+  "customerNotes": "",
+  "productionNotes": "Exception 1 applied. YXS requires smaller screen. 250 pieces total, TigerBlue absorbs extra setup.",
+  "garmentLines": [
+    {
+      "groupName": "Season XXI",
+      "setupDescription": "YXS & YS",
+      "garment": "Gildan Heavy Cotton T-Shirt - Coral",
+      "imprint": "Screen Print - 3 Colors (Front & Back)",
+      "printSize": "13x16",
+      "sizes": "YXS-5, YS-32",
+      "isFree": false,
+      "proofImageUrl": "https://res.cloudinary.com/dilrpnzkd/image/upload/v1781667839/tigerblue/SeasonXXIv2.png"
+    },
+    {
+      "groupName": "Season XXI",
+      "setupDescription": "Standard Sizes",
+      "garment": "Gildan Heavy Cotton T-Shirt - Coral",
+      "imprint": "Screen Print - 3 Colors (Front & Back)",
+      "printSize": "13x16",
+      "sizes": "YM-34, YL-40, YXL-15, AS-70, AM-25, AL-18, AXL-8, A2XL-1, A3XL-2",
+      "isFree": false,
+      "proofImageUrl": ""
+    }
+  ]
 }
