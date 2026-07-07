@@ -1,30 +1,20 @@
 {
-  "invoiceNum": "1631",
+  "invoiceNum": "1632",
   "processed": false,
-  "clientName": "Laredo All American Cheer",
-  "projectName": "46th Anniversary",
-  "orderDate": "July 3, 2026",
-  "shipToLocation": "TX:1",
-  "totalDue": "$5,545.49",
+  "clientName": "Le Grand High School",
+  "projectName": "Season 26-27",
+  "orderDate": "July 6, 2026",
+  "shipToLocation": "CA:4",
+  "totalDue": "$808.74",
   "customerNotes": "",
-  "productionNotes": "YXS present, Exception 1 applies. Total order quantity is 410 pieces which is 144 or more, so TigerBlue absorbs the YXS and YS setup cost. No extra charge to the client.",
-  "proofImageUrl": "https://res.cloudinary.com/dilrpnzkd/image/upload/v1783444594/tigerblue/LAAseason46.png",
+  "productionNotes": "No YXS present, Exception 1 does not apply. Oversize size A2XL-1 merged into the single production line per billing-only oversize rule.",
+  "proofImageUrl": "",
   "garmentLines": [
     {
-      "garment": "Jerzees Dri-Power 50/50 T-Shirt - Royal Blue",
-      "imprint": "Screen Print - 4 colors - Front and Back",
+      "garment": "Gildan Heavy Cotton T-Shirt - White",
+      "imprint": "Screen Print - 3 colors - Front only",
       "isFree": false,
-      "sizes": "YXS-53, YS-66",
-      "setupDescription": "YXS & YS",
-      "proofImageUrl": "https://res.cloudinary.com/dilrpnzkd/image/upload/v1783444594/tigerblue/LAAseason46.png",
-      "specialInks": 0
-    },
-    {
-      "garment": "Jerzees Dri-Power 50/50 T-Shirt - Royal Blue",
-      "imprint": "Screen Print - 4 colors - Front and Back",
-      "isFree": false,
-      "sizes": "YM-64, YL-55, AS-72, AM-45, AL-32, AXL-18, A2XL-3, A3XL-2",
-      "setupDescription": "Standard Sizes",
+      "sizes": "YS-1, YM-2, YL-9, AS-19, AM-7, A2XL-1",
       "proofImageUrl": "",
       "specialInks": 0
     }
