@@ -1,31 +1,21 @@
 {
-  "invoiceNum": "1629",
+  "invoiceNum": "1632",
   "processed": true,
-  "clientName": "Santa Monica Athletix Xtreme",
-  "projectName": "Shamrox & Lucky Season 11",
-  "orderDate": "June 26, 2026",
+  "clientName": "Le Grand High School",
+  "projectName": "Season 26-27",
+  "orderDate": "July 6, 2026",
   "shipToLocation": "CA:4",
-  "totalDue": "$1,679.59",
+  "totalDue": "$808.74",
   "customerNotes": "",
-  "productionNotes": "Two designs, same garment style, same size breakdown. No YXS present so Exception 1 does not apply. Combined order total is 72 pieces (36 + 36), priced at the 72-143 piece tier per company pricing rule.",
+  "productionNotes": "No YXS present, Exception 1 does not apply. Oversize size A2XL-1 merged into the single production line per billing-only oversize rule.",
   "proofImageUrl": "",
   "garmentLines": [
     {
-      "garment": "Bella+Canvas Unisex Jersey T-Shirt - Black",
+      "garment": "Gildan Heavy Cotton T-Shirt - White",
       "imprint": "Screen Print - 3 colors - Front only",
       "isFree": false,
-      "sizes": "AXS-2, AS-3, AM-2, AL-4, AXL-2, YS-2, YM-12, YL-7, YXL-2",
-      "groupName": "Shamrox",
-      "proofImageUrl": "https://res.cloudinary.com/dilrpnzkd/image/upload/v1782580756/tigerblue/SMAX.png",
-      "specialInks": 0
-    },
-    {
-      "garment": "Bella+Canvas Unisex Jersey T-Shirt - Neon Yellow",
-      "imprint": "Screen Print - 3 colors - Front only",
-      "isFree": false,
-      "sizes": "AXS-2, AS-3, AM-2, AL-4, AXL-2, YS-2, YM-12, YL-7, YXL-2",
-      "groupName": "Lucky Season 11",
-      "proofImageUrl": "https://res.cloudinary.com/dilrpnzkd/image/upload/v1782507849/tigerblue/LuckySeason11.png",
+      "sizes": "YS-1, YM-2, YL-9, AS-19, AM-7, A2XL-1",
+      "proofImageUrl": "",
       "specialInks": 0
     }
   ]
