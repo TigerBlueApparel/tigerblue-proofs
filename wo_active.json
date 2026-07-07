@@ -1,31 +1,31 @@
 {
-  "invoiceNum": "1631",
+  "invoiceNum": "SMAX-PENDING",
   "processed": false,
-  "clientName": "Laredo All American Cheer",
-  "projectName": "46th Anniversary",
-  "orderDate": "July 3, 2026",
-  "shipToLocation": "TX:1",
-  "totalDue": "$5,545.49",
+  "clientName": "SMAX Cheer Santa Monica CA",
+  "projectName": "Shamrox & Lucky Season 11",
+  "orderDate": "June 24, 2026",
+  "shipToLocation": "CA:4",
+  "totalDue": "",
   "customerNotes": "",
-  "productionNotes": "YXS present, Exception 1 applies. Total order quantity is 410 pieces which is 144 or more, so TigerBlue absorbs the YXS and YS setup cost. No extra charge to the client.",
+  "productionNotes": "Two designs, same garment and sizes. No YXS present so Exception 1 does not apply. Combined order total is 72 pieces (36 + 36), which prices at the 72-143 piece tier per company pricing rule (bulk pricing applies to the full combined order). No invoice or estimate exists yet in QuickBooks for this order as of July 7, 2026 - status was Pending Invoice on the Order Intake sheet.",
   "proofImageUrl": "",
   "garmentLines": [
     {
-      "garment": "Jerzees Dri-Power 50/50 T-Shirt - Royal Blue",
-      "imprint": "Screen Print - 4 colors - Front and Back",
+      "garment": "Bella+Canvas Fine Jersey T-Shirt - Black",
+      "imprint": "Screen Print - 3 colors - Front only",
       "isFree": false,
-      "sizes": "YXS-53, YS-66",
-      "setupDescription": "YXS & YS",
-      "proofImageUrl": "",
+      "sizes": "XS-2, S-3, M-2, L-4, XL-2, YS-2, YM-12, YL-7, YXL-2",
+      "groupName": "Shamrox",
+      "proofImageUrl": "https://res.cloudinary.com/dilrpnzkd/image/upload/v1782580756/tigerblue/SMAX.png",
       "specialInks": 0
     },
     {
-      "garment": "Jerzees Dri-Power 50/50 T-Shirt - Royal Blue",
-      "imprint": "Screen Print - 4 colors - Front and Back",
+      "garment": "Bella+Canvas Fine Jersey T-Shirt - Neon Yellow",
+      "imprint": "Screen Print - 3 colors - Front only",
       "isFree": false,
-      "sizes": "YM-64, YL-55, AS-72, AM-45, AL-32, AXL-18, A2XL-3, A3XL-2",
-      "setupDescription": "Standard Sizes",
-      "proofImageUrl": "",
+      "sizes": "XS-2, S-3, M-2, L-4, XL-2, YS-2, YM-12, YL-7, YXL-2",
+      "groupName": "Lucky Season 11",
+      "proofImageUrl": "https://res.cloudinary.com/dilrpnzkd/image/upload/v1782507849/tigerblue/LuckySeason11.png",
       "specialInks": 0
     }
   ]
