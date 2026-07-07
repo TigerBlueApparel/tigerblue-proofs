@@ -1,29 +1,29 @@
 {
-  "invoiceNum": "SMAX-PENDING",
+  "invoiceNum": "1629",
   "processed": false,
-  "clientName": "SMAX Cheer Santa Monica CA",
+  "clientName": "Santa Monica Athletix Xtreme",
   "projectName": "Shamrox & Lucky Season 11",
-  "orderDate": "June 24, 2026",
+  "orderDate": "June 26, 2026",
   "shipToLocation": "CA:4",
-  "totalDue": "",
+  "totalDue": "$1,679.59",
   "customerNotes": "",
-  "productionNotes": "Two designs, same garment and sizes. No YXS present so Exception 1 does not apply. Combined order total is 72 pieces (36 + 36), which prices at the 72-143 piece tier per company pricing rule (bulk pricing applies to the full combined order). No invoice or estimate exists yet in QuickBooks for this order as of July 7, 2026 - status was Pending Invoice on the Order Intake sheet.",
+  "productionNotes": "Two designs, same garment style, same size breakdown. No YXS present so Exception 1 does not apply. Combined order total is 72 pieces (36 + 36), priced at the 72-143 piece tier per company pricing rule.",
   "proofImageUrl": "",
   "garmentLines": [
     {
-      "garment": "Bella+Canvas Fine Jersey T-Shirt - Black",
+      "garment": "Bella+Canvas Unisex Jersey T-Shirt - Black",
       "imprint": "Screen Print - 3 colors - Front only",
       "isFree": false,
-      "sizes": "XS-2, S-3, M-2, L-4, XL-2, YS-2, YM-12, YL-7, YXL-2",
+      "sizes": "AXS-2, AS-3, AM-2, AL-4, AXL-2, YS-2, YM-12, YL-7, YXL-2",
       "groupName": "Shamrox",
       "proofImageUrl": "https://res.cloudinary.com/dilrpnzkd/image/upload/v1782580756/tigerblue/SMAX.png",
       "specialInks": 0
     },
     {
-      "garment": "Bella+Canvas Fine Jersey T-Shirt - Neon Yellow",
+      "garment": "Bella+Canvas Unisex Jersey T-Shirt - Neon Yellow",
       "imprint": "Screen Print - 3 colors - Front only",
       "isFree": false,
-      "sizes": "XS-2, S-3, M-2, L-4, XL-2, YS-2, YM-12, YL-7, YXL-2",
+      "sizes": "AXS-2, AS-3, AM-2, AL-4, AXL-2, YS-2, YM-12, YL-7, YXL-2",
       "groupName": "Lucky Season 11",
       "proofImageUrl": "https://res.cloudinary.com/dilrpnzkd/image/upload/v1782507849/tigerblue/LuckySeason11.png",
       "specialInks": 0
